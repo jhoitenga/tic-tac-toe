@@ -179,8 +179,8 @@ menu {
 }
 
 .hidden {
-    display: none;
-}
+    display: none !important;
+  }
 
 .yellow {
     color: var(--yellow);
